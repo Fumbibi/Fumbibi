@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Fumbibi
 - 👀 I’m interested in ... friends, learning
-- 🌱 I’m currently learning ... C#/TypeScript, ~~Blazor~~Go, ~~VS Code~~ NeoVim
+- 🌱 I’m currently learning ... Algorithms, Data Structures, Go, ~~NeoVim~~ ~~C#/TypeScript~~, ~~Blazor~~, ~~VS Code~~ 
 - 💞️ I’m looking to collaborate on ... user access to filterable data source
 - 📫 How to reach me ... @gmail.com
-- ⚡ Fun fact: ... charitable listener
+- ⚡ Fun fact: ... Fan of story-telling
 
 <!---
 Fumbibi/Fumbibi is a ✨ normal ✨ repository because its `README.md` (this file) appears on your GitHub profile.
